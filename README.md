@@ -1,5 +1,7 @@
 # Module 4: Introduction to Git and GitHub
 
+Bacon ipsum dolor amet drumstick prosciutto kielbasa jerky filet mignon meatloaf. Fatback pork beef ribs corned beef tri-tip shank pork chop prosciutto tail pork loin sirloin turducken cupim porchetta. Ham kevin bacon tenderloin, flank cupim pig pastrami tail landjaeger brisket ball tip jerky boudin sirloin. Burgdoggen kevin brisket, capicola meatball cow tongue spare ribs ball tip andouille drumstick. Venison landjaeger turducken spare ribs sirloin doner flank, pork loin leberkas bacon. Pork belly pork loin pork chop chuck drumstick flank.
+
 ## Overview
 Being able to manage changes to your code and share it with others is one of the most important technical skills a programmer can learn. Unfortunately, a frightening number of people still email their code, have dozens of versions of the same file, and lack a system for backing up their code. This is both time consuming and error prone.
 
